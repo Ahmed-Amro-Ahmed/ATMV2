@@ -1,0 +1,20 @@
+[
+  {
+    "role": "USER",
+    "balance": 400,
+    "pass": "1111",
+    "user": "customer1"
+  },
+  {
+    "role": "USER",
+    "balance": 1400,
+    "pass": "2222",
+    "user": "customer2"
+  },
+  {
+    "role": "USER",
+    "balance": 800,
+    "pass": "3333",
+    "user": "customer3"
+  }
+]
